@@ -1,1 +1,1 @@
-# logical-prediction
+# Color prediction
